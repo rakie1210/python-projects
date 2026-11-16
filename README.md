@@ -1,0 +1,43 @@
+# Python Mini Projects
+
+A series of small projects in Python, inspired by Udemy's **100 Days of Code in Python** course.
+
+Each project is a short, self-contained exercise built to practice a specific concept, from the basics (variables, loops, functions) to more advanced topics (OOP, working with APIs, data analysis, and more).
+
+## About this repo
+
+- One folder per project, each runnable on its own
+- Small in scope, focused on learning by building
+- Written and kept here as a record of my progress with Python
+
+> This repo is an independent learning portfolio and is not affiliated with or endorsed by Udemy or the course instructor.
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [quiz-game](./quiz-game) | A python project that creates multiple classes and methods. This is a game where user needs to answer True or False |
+
+_More projects are added over time._
+
+## Getting started
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/rakie1210/python-projects.git
+   cd python-projects
+   ```
+
+2. Open a project folder:
+
+   ```bash
+   cd python-projects
+   ```
+   
+## Requirements
+
+- Python 3.8
+
+Individual projects may list extra dependencies in their own folder.
+
