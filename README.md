@@ -17,6 +17,7 @@ Each project is a short, self-contained exercise built to practice a specific co
 | Project | Description |
 |---------|-------------|
 | [quiz-game](./quiz-game) | A python project that creates multiple classes and methods. This is a game where user needs to answer True or False |
+| [turtle-graphics](./turtle-graphics) | A python project that creates multiple classes and methods. This is to create an artwork using turtle module. |
 
 _More projects are added over time._
 
