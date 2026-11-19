@@ -17,9 +17,11 @@ Each project is a short, self-contained exercise built to practice a specific co
 | Project | Description |
 |---------|-------------|
 | [quiz-game](./quiz-game) | A python project that creates multiple classes and methods. This is a game where user needs to answer True or False |
-| [turtle-graphics](./turtle-graphics) | A python project that creates multiple classes and methods. This is to create an artwork using turtle module. |
+| [turtle-graphics](./turtle-graphics) | A project to create an artwork using turtle graphics module. |
 | [hirst-painting](./hirst-painting) | A project that recreates a Hirst Spot Painting using colorgram and turtle graphics.|
 | [etch-a-sketch-app](./etch-a-sketch-app) | A project that recreates the classic toy Etch-a-sketch where you can draw using the keyboard keys.<br/> This is learning about Higher Order Functions and Event Listeners in Python.|
+| [turtle-race-game](./turtle-race-game) | A project that creates a simple turtle race game.<br/> This is learning about handling multiple object and instances in Python, and also talks about Coordinate System.|
+
 
 _More projects are added over time._
 
