@@ -23,6 +23,7 @@ Each project is a short, self-contained exercise built to practice a specific co
 | [turtle-race-game](./turtle-race-game) | A project that creates a simple turtle race game.<br/> This is learning about handling multiple object and instances in Python, and also talks about Coordinate System.|
 | [snake_game](./snake_game) | A project that creates the classic snake game of nokia 3310.<br/> This is learning about inheritance in Python.|
 | [pong-game](./pong-game-v2) | A project that recreates the retro pong game.|
+| [turtle-crossing-game](./turtle-crossing-game) | A project that recreates the y8 game of turtle crossing in python.|
 
 
 _More projects are added over time._
