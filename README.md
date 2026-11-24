@@ -24,6 +24,7 @@ Each project is a short, self-contained exercise built to practice a specific co
 | [snake_game](./snake_game) | A project that creates the classic snake game of nokia 3310.<br/> This is learning about inheritance in Python.<br/> The high score is saved to `data.txt` so it persists between games, which is learning about reading and writing files in Python.|
 | [pong-game](./pong-game-v2) | A project that recreates the retro pong game.|
 | [turtle-crossing-game](./turtle-crossing-game) | A project that recreates the y8 game of turtle crossing in python.|
+| [mail-merge](./mail-merge) | A project that creates an automated birthday invitation using directory, file with write, append and read.  |
 
 
 _More projects are added over time._
