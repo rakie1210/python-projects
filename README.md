@@ -21,7 +21,7 @@ Each project is a short, self-contained exercise built to practice a specific co
 | [hirst-painting](./hirst-painting) | A project that recreates a Hirst Spot Painting using colorgram and turtle graphics.|
 | [etch-a-sketch-app](./etch-a-sketch-app) | A project that recreates the classic toy Etch-a-sketch where you can draw using the keyboard keys.<br/> This is learning about Higher Order Functions and Event Listeners in Python.|
 | [turtle-race-game](./turtle-race-game) | A project that creates a simple turtle race game.<br/> This is learning about handling multiple object and instances in Python, and also talks about Coordinate System.|
-| [snake_game](./snake_game) | A project that creates the classic snake game of nokia 3310.<br/> This is learning about inheritance in Python.|
+| [snake_game](./snake_game) | A project that creates the classic snake game of nokia 3310.<br/> This is learning about inheritance in Python.<br/> The high score is saved to `data.txt` so it persists between games, which is learning about reading and writing files in Python.|
 | [pong-game](./pong-game-v2) | A project that recreates the retro pong game.|
 | [turtle-crossing-game](./turtle-crossing-game) | A project that recreates the y8 game of turtle crossing in python.|
 
