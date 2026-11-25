@@ -25,6 +25,8 @@ Each project is a short, self-contained exercise built to practice a specific co
 | [pong-game](./pong-game-v2) | A project that recreates the retro pong game.|
 | [turtle-crossing-game](./turtle-crossing-game) | A project that recreates the y8 game of turtle crossing in python.|
 | [mail-merge](./mail-merge) | A project that creates an automated birthday invitation using directory, file with write, append and read.  |
+| [the-great-squirrel-census](./the-great-squirrel-census) | A project that counts the number of squirrels in the New York's Central Park. The objective of this project is to learn how to use pandas.|
+| [us-states-game](./us-states-game) | A project that creates an interactive quiz game of states in USA. When a user correctly guessed the state, the name of the state will be shown on the map. The project is to utilize the learnings of turtle graphics and pandas.|
 
 
 _More projects are added over time._
